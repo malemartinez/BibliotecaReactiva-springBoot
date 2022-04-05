@@ -1,10 +1,10 @@
-package com.sofkau.libraryReactive2;
+package com.sofkau.BibliotecaReactiva;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LibraryReactive2ApplicationTests {
+class BibliotecaReactivaApplicationTests {
 
 	@Test
 	void contextLoads() {

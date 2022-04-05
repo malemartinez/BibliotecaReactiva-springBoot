@@ -1,13 +1,13 @@
-package com.sofkau.libraryReactive2;
+package com.sofkau.BibliotecaReactiva;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LibraryReactive2Application {
+public class BibliotecaReactivaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LibraryReactive2Application.class, args);
+		SpringApplication.run(BibliotecaReactivaApplication.class, args);
 	}
 
 }
